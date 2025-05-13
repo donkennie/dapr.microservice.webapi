@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2M69n96tG0=",
+  "success": true,
+  "projectFilePath": "/Users/donkennie/Documents/stuff/src/dapr.microservice.webapi2/dapr.microservice.webapi2.csproj",
+  "expectedPackageFiles": [
+    "/Users/donkennie/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/donkennie/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
